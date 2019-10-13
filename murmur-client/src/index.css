@@ -1,0 +1,53 @@
+body {
+	background-color: #e6ecf0;
+}
+/*Nav*/
+.navbar{
+	margin-bottom: 1rem;
+}
+.navbar a{
+	font-weight: bold;
+	color:white;
+}
+.navbar a:hover{
+	color: white;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.navbar-brand > img{
+	display: inline-block;
+	width: 20px;
+	border-radius: 2px;
+	margin-bottom: 2px;
+	margin-right: 5px;
+}
+ul.nav.navbar-nav li{
+	margin:0.05rem;
+
+}
+.onboarding > .navbar{
+	background-image: url("images/mike-enerio-34556-unsplash.jpg");
+}
+.home-hero{
+	width:100vw;
+	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+	flex-direction: column;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index:-1;
+	background-image: url("images/ben-white-178537-unsplash.jpg");
+	text-align: 1rem;
+	background-position: center center;
+	background-size: cover;
+	color:#fff;
+	text-shadow: 0 0 8px #66757f;
+
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
