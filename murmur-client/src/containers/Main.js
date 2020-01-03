@@ -41,7 +41,7 @@ const Main = props =>{
 				}}
 				/>
 				<Route
-					path="/users/:id/message/new"
+					path="/users/:id/messages/new"
 					component={withAuth(MessageForm)}
 					/>
 			</Switch>
@@ -57,4 +57,4 @@ function mapStateToProps(state){
 	};
 }
 
-export	default	withRouter(connect(mapStateToProps,	{authUser, removeError})(Main));
+export default	withRouter(connect(mapStateToProps,	{authUser, removeError})(Main));

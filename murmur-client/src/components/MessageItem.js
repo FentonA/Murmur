@@ -14,7 +14,7 @@ const MessageItem = ({
   <div>
     <li className="list-group-item">
       <img
-        // src={profileImageUrl || DefaultProfileImg}
+        src={profileImageUrl}
         alt={username}
         height="100"
         width="100"
