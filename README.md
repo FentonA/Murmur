@@ -22,5 +22,4 @@ After which, run npm start on the "mumur-server" folder, and run node index.js o
 ## Authors
 Alf Fenton
 
-## Contributors/Citation 
-Udemy 
+
