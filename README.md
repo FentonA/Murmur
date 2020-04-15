@@ -8,6 +8,9 @@ log-in page:
 Main Feed: 
 ![image](https://github.com/FentonA/Murmur/blob/master/Screenshot_041420_091424_PM.jpg)
 
+Adding new message: 
+![image](https://github.com/FentonA/Murmur/blob/master/Screenshot_041420_091807_PM.jpg)
+
 # Stack Used 
 Built with, React.js, Javascript, Mongodb, 
 
