@@ -10,6 +10,7 @@ Main Feed:
 
 Adding new message: 
 ![image](https://github.com/FentonA/Murmur/blob/master/Screenshot_041420_091807_PM.jpg)
+![image](https://github.com/FentonA/Murmur/blob/master/Screenshot_041420_092407_PM.jpg)
 
 # Stack Used 
 Built with, React.js, Javascript, Mongodb, 
