@@ -32,7 +32,7 @@ class Navbar extends Component{
               </li>
             </ul>
           ) : (
-            <ul className="nav navbar-nav navbar-right">
+            <ul className="mumr-nav nav navbar-nav navbar-right">
               <li>
                 <Link to="/signup">Sign up</Link>
               </li>

@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import MessageTimeline from "./MessageTimeline";
+import './Homepage.css';
 
 const Homepage = ({ currentUser }) => {
   if (!currentUser.isAuthenticated) {
