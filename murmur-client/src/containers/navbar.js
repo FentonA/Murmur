@@ -3,6 +3,7 @@ import {Link} from "react-router-dom";
 import {connect} from "react-redux";
 import { logout } from "../store/actions/auth";
 import Logo from "../images/murmur-logo.png";
+import './navbar.css';
 
 class Navbar extends Component{
 	logout = e =>{
